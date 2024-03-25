@@ -1,0 +1,155 @@
+header {
+  width: 100%;
+  height: 60px;
+  background-color: yellow;
+}
+header a {
+  text-decoration: none;
+}
+header nav {
+  width: 900px;
+}
+header nav ul {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  list-style-type: none;
+  padding-left: 80px;
+  font-size: 20px;
+}
+header nav li {
+  width: 900px;
+}
+header nav li :hover {
+  background-color: slategray;
+}
+
+main img {
+  width: 100%;
+  height: 80%;
+}
+
+p, h2 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 30px;
+}
+
+.one {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+.one img {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+}
+
+h4 h5 h6 {
+  font-size: 10px;
+  text-align: start;
+  display: flex;
+}
+
+.ggg p {
+  width: 400px;
+  height: auto;
+  text-align: center;
+}
+
+.zzz {
+  width: 100%;
+  height: 100%;
+  display: flex;
+}
+
+table {
+  width: 30%;
+  height: 100%;
+  border: solid slategrey;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  border-collapse: collapse;
+}
+table .b {
+  background-color: green;
+  color: yellow;
+  font-size: 40px;
+}
+table .n {
+  background-color: slategrey;
+  color: white;
+  font-size: 40px;
+}
+table .m {
+  background-color: black;
+  color: white;
+  font-size: 40px;
+}
+table .x {
+  width: 200px;
+  height: 100px;
+  color: white;
+  background-color: rgb(214, 217, 219);
+  align-items: center;
+}
+table .j {
+  width: 100px;
+  height: 50px;
+  background-color: green;
+  color: white;
+}
+table .p {
+  width: 200px;
+  height: 100px;
+  color: white;
+  background-color: rgb(214, 217, 219);
+  align-items: center;
+}
+table .o {
+  width: 100px;
+  height: 50px;
+  background-color: green;
+  color: white;
+}
+table .i {
+  width: 900px;
+  height: 100px;
+  color: white;
+  background-color: rgb(214, 217, 219);
+  align-items: center;
+}
+table .f {
+  width: 900px;
+  height: 50px;
+  background-color: green;
+  color: yellow;
+}
+
+.kkk {
+  width: 100%;
+  height: 400px;
+}
+.kkk .d {
+  text-align: start;
+}
+
+.v {
+  width: 100%;
+  height: 600px;
+  display: flex;
+  align-items: end;
+  justify-content: end;
+}
+
+.fff {
+  width: 100%;
+  height: 300px;
+  background-color: black;
+  text-align: center;
+  color: white;
+}/*# sourceMappingURL=sassharunakutyun28.css.map */
